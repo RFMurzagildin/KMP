@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a Kotlin Multiplatform project targeting Android, iOS, Desktop (JVM).
 
 * [/iosApp](./iosApp/iosApp) contains an iOS application. Even if you’re sharing your UI with Compose Multiplatform,
@@ -37,3 +38,11 @@ Use the run button in your IDE's editor gutter, or run tests using Gradle tasks:
 ---
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+=======
+# KMP
+Выполнили студенты КФУ ИТИС
+
+Мурзагильдин Ранис Флюрович 11-302 группа
+
+Сушков Павел Андреевич 11-305 группа
+>>>>>>> db5ad26341e5421cd0c0293a2ebb26752930b0c6
